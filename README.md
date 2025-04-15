@@ -61,7 +61,7 @@ The data covers the period from **March 2016 to October 2023**.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/danwei-2072/British_Airways_Reviews_Dashboard_Using_Tableau
+    git clone https://github.com/danwei-2072/British_Airways_Reviews_Dashboard_Using_Tableau.git
     cd British_Airways_Reviews_Dashboard_Using_Tableau
     ```
 2.  **Open the Dashboard:**
